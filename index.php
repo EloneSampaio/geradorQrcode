@@ -138,7 +138,35 @@ try {
 				</div>
 			</div>
 		</div>
+		
 	</section>
+	<!-- Footer -->
+<footer class="text-center text-lg-start bg-light text-muted">
+  <!-- Section: Social media -->
+  <section
+    class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
+  >
+  
+  </section>
+  <!-- Section: Social media -->
+
+  <!-- Section: Links  -->
+  <section class="">
+    <div class="container text-center text-md-start mt-5">
+      
+      <!-- Grid row -->
+    </div>
+  </section>
+ 
+
+  <!-- Copyright -->
+  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2021 Copyright:
+    <a class="text-reset fw-bold" href="">Elone Izata Sampaio</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+<!-- Footer -->
 
 	<script src="js/jquery.min.js"></script>
   <script src="js/popper.js"></script>
